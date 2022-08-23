@@ -31,7 +31,14 @@
 //     }
 // }
 /** Assignment Operators */
+// let x = 10
+// let y = 5
 //
+// console.log(`Adding y: ${x += y}`)
+// console.log(`Subtracting y: ${x -= y}`)
+// console.log(`Multiply y: ${x *= y}`)
+// console.log(`Divide y: ${x /= y}`)
+
 /** Comparison Operators */
 //
 /** String Manipulation */
