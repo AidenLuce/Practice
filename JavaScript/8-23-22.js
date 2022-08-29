@@ -75,7 +75,9 @@
 // console.log(check8(x))
 
 /** String Manipulation */
-//
+let meat = ('chicken','beef','fish','pork','lamb', 'turkey')
+console.log(meat.length)
+console.log(meat.slice(3).length)
 /** Array Manipulation */
 //
 /** Writing Functions */
